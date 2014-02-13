@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://raynald.github.io/sitemap.xml 
