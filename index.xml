@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yggdrasil</title>
+    <link>/</link>
+    <description>Recent content on Yggdrasil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 May 2017 09:13:15 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>塞木鸭</title>
+      <link>/wikis/my-new-doc/</link>
+      <pubDate>Sat, 20 May 2017 09:13:15 +0200</pubDate>
+      
+      <guid>/wikis/my-new-doc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>/about/</link>
+      <pubDate>Sat, 20 May 2017 09:01:16 +0200</pubDate>
+      
+      <guid>/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

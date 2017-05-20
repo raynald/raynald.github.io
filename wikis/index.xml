@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wikis on Yggdrasil</title>
+    <link>/wikis/</link>
+    <description>Recent content in Wikis on Yggdrasil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 May 2017 09:13:15 +0200</lastBuildDate>
+    
+	<atom:link href="/wikis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>塞木鸭</title>
+      <link>/wikis/my-new-doc/</link>
+      <pubDate>Sat, 20 May 2017 09:13:15 +0200</pubDate>
+      
+      <guid>/wikis/my-new-doc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
