@@ -163,6 +163,10 @@
   </url>
   
   <url>
+    <loc>/company/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/design/</loc>
     <lastmod>2017-04-02T22:01:15+01:00</lastmod>
     <priority>0</priority>
@@ -203,9 +207,17 @@
   </url>
   
   <url>
+    <loc>/password-recovery/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/prototype/</loc>
     <lastmod>2017-04-02T22:01:15+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/account/</loc>
   </url>
   
   <url>
@@ -217,7 +229,6 @@
   <url>
     <loc>/</loc>
     <lastmod>2017-03-02T21:56:55+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
