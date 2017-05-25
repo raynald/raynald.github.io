@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>whoami on Yggdrasil</title>
+    <title>Yggdrasil</title>
     <link>/</link>
-    <description>Recent content in whoami on Yggdrasil</description>
+    <description>Recent content on Yggdrasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 21:56:55 +0100</lastBuildDate>
@@ -32,11 +32,34 @@ Bear claw danish chocolate lollipop soufflé jelly. Apple pie chocolate cake jel
     </item>
     
     <item>
+      <title>My travel map</title>
+      <link>/docs/travelmap/</link>
+      <pubDate>Thu, 25 May 2017 21:30:21 +0200</pubDate>
+      
+      <guid>/docs/travelmap/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>/docs/tech/</link>
+      <pubDate>Thu, 25 May 2017 14:47:53 +0200</pubDate>
+      
+      <guid>/docs/tech/</guid>
+      <description> How to encrypt and decrypt a file Encrypt:
+ openssl aes-256-cbc -a -salt -in secrets.txt -out secrets.txt.enc
+ Decrypt:
+ openssl aes-256-cbc -d -a -in secrets.txt.enc -out secrets.txt.new
+ How to use bash to generate a random number  $(( ( RANDOM % BUCKET ) + 1 ))
+ </description>
+    </item>
+    
+    <item>
       <title>吴语趣味小词典</title>
-      <link>/docs/my-new-doc/</link>
+      <link>/docs/wu/</link>
       <pubDate>Sat, 20 May 2017 09:13:15 +0200</pubDate>
       
-      <guid>/docs/my-new-doc/</guid>
+      <guid>/docs/wu/</guid>
       <description> 我经常用『塞木鸭』来形容吃撑了，不知道什么来历，经过网上一查。原来『木鸭』指的是『鸬鹚』，也就是经常说的『鱼鹰』。
  『行车』是『起重机』的俗语
   </description>
