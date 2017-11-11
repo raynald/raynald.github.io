@@ -36,12 +36,13 @@
       <pubDate>Thu, 25 May 2017 14:47:53 +0200</pubDate>
       
       <guid>/docs/tech/</guid>
-      <description> How to encrypt and decrypt a file Encrypt:
+      <description>How to encrypt and decrypt a file Encrypt:
  openssl aes-256-cbc -a -salt -in secrets.txt -out secrets.txt.enc
  Decrypt:
  openssl aes-256-cbc -d -a -in secrets.txt.enc -out secrets.txt.new
  How to use bash to generate a random number  $(( ( RANDOM % BUCKET ) + 1 ))
- </description>
+ How to fix Chinese font issue on Nook Simple Touch Replace chinese fonts with following one.
+@font-face { font-family:&amp;quot;cnepub&amp;quot;; src:url(res:///opt/sony/ebook/FONT/tt0011m_.ttf), url(res:///tt0011m_.</description>
     </item>
     
     <item>
